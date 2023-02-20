@@ -1,0 +1,39 @@
+{
+   "token": "MTA1OTY2MjM2MDY1MjAyMTg1MA.GK0RQ6.pGw43illkUiqF-RYmWvJP7at09zNENehkwY24w",
+   "prefix": "+",
+   "ownerIDS": [
+      "708727559432699994",
+      "1058927354791075942"
+   ],
+   "memer_api": "mXlMNYMdFEp",
+   "status": {
+      "text": "I am a bot!",
+      "text2": "activity",
+      "type": "WATCHING",
+      "url": "https://twitch.tv/#"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lavalink1.albinhakanson.se",
+            "port": 1141,
+            "password": "albinhakanson.se"
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "",
+      "clientID": ""
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
